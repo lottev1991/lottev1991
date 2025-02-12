@@ -8,7 +8,8 @@ Welcome to my humble home here on GitHub. ✨
 - ♀️ **Gender:** Female
 - 🎂 **Date of birth:** October 14, 1991
 - 🇳🇱 **Location:** The Netherlands
-- ⌨️**First programming language:** Good ol' HTML, when I was around 10 or so.
+- 👩‍💼 **Occupation:** Web and graphic designer
+- ⌨️ **First programming language:** Good ol' HTML, when I was around 10 or so.
 <br></br>
 - 🔭 **I’m currently working on** [OpenUtau](https://github.com/stakira/openutau), [Dollmaker NEO](https://github.com/lottev1991/dollmaker-neo)
 - 🌱 **I’m currently learning** how to write nice loops in PHP
