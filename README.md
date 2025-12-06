@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to my humble home here on GitHub. ✨
 ## 💻 Languages, tools and general tech field interests
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,bootstrap,ts,html,php,css,svg,wordpress,fediverse,activitypub,nginx,postgres,cs,dotnet,visualstudio,vscode,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,git,github,js,jquery,bootstrap,ts,html,php,css,svg,wordpress,fediverse,activitypub,nginx,postgres,cs,dotnet,vscode,idea,rider,java,kotlin,blender,py,pytorch,anaconda,tensorflow)](https://skillicons.dev)
 
 ## 👱‍♀️ About me
 - 📛 **Name:** Lotte
