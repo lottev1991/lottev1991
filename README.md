@@ -1,5 +1,8 @@
 # Hi there 👋
 Welcome to my humble home here on GitHub. ✨
+
+My icon was made with [this classic Rinmaru game](https://www.dolldivine.com/classic-games/60s-fashion-dress-up-game).
+
 ## 💻 Languages, tools and general tech field interests
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,git,github,js,jquery,bootstrap,ts,html,php,css,svg,wordpress,fediverse,activitypub,nginx,postgres,cs,dotnet,vscode,idea,rider,java,kotlin,blender,py,pytorch,anaconda,tensorflow)](https://skillicons.dev)
 
