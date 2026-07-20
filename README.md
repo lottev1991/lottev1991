@@ -14,8 +14,8 @@ My icon was made with [this classic Rinmaru game](https://www.dolldivine.com/cla
 - 👩‍💼 **Occupation:** Web and graphic designer
 - ⌨️ **First programming language:** Good ol' HTML, when I was around 10 or so.
 <br></br>
-- 🔭 **I’m currently working on** [Project AI❤dol Public English Dataset](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset), [OpenUtau](https://github.com/stakira/openutau), [Dollmaker NEO](https://github.com/lottev1991/dollmaker-neo), and two secret projects (that I hope to publish soon!)
-- 🌱 **I’m currently learning** JavaScript tricks, training ethical AI models, Jetpack Compose
+- 🔭 **I’m currently working on** [Project AI❤dol Public English Dataset](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset), [Dollmaker NEO](https://github.com/lottev1991/dollmaker-neo), [DroidKiSS](https://github.com/lottev1991/droidkiss), and a very WIP dress up game project that I hope to release soon. 
+- 🌱 **I’m currently learning** JavaScript tricks, training ethical AI models, Jetpack Compose, Ct.js
 - 👯 **I’m looking to collaborate on** maybe a dollmaker in the future.
 - 🤔 **I’m looking for help with** nothing in particular at the moment, but when I do I'll put it here.
 - 💬 **Ask me about** JavaScript, PHP, C#, CSS, WordPress, web dev/design in general, dollmakers/dress up games, ethical AI, singing voice synthesis, text-to-speech
