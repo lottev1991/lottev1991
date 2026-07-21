@@ -18,7 +18,7 @@ My icon was made with [this classic Rinmaru game](https://www.dolldivine.com/cla
 - 🌱 **I’m currently learning** JavaScript tricks, training ethical AI models, Jetpack Compose, Ct.js
 - 👯 **I’m looking to collaborate on** maybe a dollmaker in the future.
 - 🤔 **I’m looking for help with** nothing in particular at the moment, but when I do I'll put it here.
-- 💬 **Ask me about** JavaScript, PHP, C#, CSS, WordPress, web dev/design in general, dollmakers/dress up games, ethical AI, singing voice synthesis, text-to-speech
+- 💬 **Ask me about** JavaScript, PHP, C#, CSS, WordPress, web dev/design in general, dollmakers/dress up games, ethical AI.
 - 📫 **How to reach me:**
   -  📧 [My website's contact form](https://lottev.moe/contact)
   -  🌐 [My fediverse account](https://veenus.art/lottev)
